@@ -28,9 +28,3 @@ Welcome to the Convert Your Currencies app! This application allows users to con
 - **Node.js**: A JavaScript runtime for building scalable network applications.
 - **Express.js**: A web framework for Node.js, used to build the API.
 - **CORS**: A middleware for enabling Cross-Origin Resource Sharing.
-
-## Setup and Installation
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/convert-your-currencies.git
-   cd convert-your-currencies
